@@ -5,7 +5,7 @@ The problem
 
 In some cases when using the entity debugger an exception is thrown and the preview gets truncated
 
-![Inspector](Inpector.png)
+![Inspector](Inspector.png)
 
 When tryint to see the entity content in the entity debugger the console gets filled with:
 
